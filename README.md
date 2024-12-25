@@ -3,7 +3,7 @@
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/705200dd-ff96-4226-8da0-4a0ff009d0a3/8a5cccb736d01640d4be?experience=power-bi
 
-## Problem Statement
+## Objective
 The objective was to analyze and visualize sales performance data to provide actionable insights for decision-makers. The focus was on understanding key performance indicators (KPIs), including sales income, gross profit, gross profit margin, and sales quantity, while offering granular insights by channel, city, product, and time trends.
 
 
